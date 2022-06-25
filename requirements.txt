@@ -27,3 +27,5 @@ flask_profiler == 1.8.1
 # bitbucketFlask/app.py: 56,57
 requests == 2.11.1
 
+urllib3
+
